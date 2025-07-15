@@ -25,7 +25,7 @@ I'm a data analyst with hands-on experience in data visualization, data cleaning
   Advanced DAX, Python (Scikit-learn, EDA), SQL optimization, statistical analysis, and storytelling for dashboards
 
 - 👯 I’m looking to collaborate on:  
-  Data analysis in healthcare, public policy, or social impact; Python-based analytics; Power BI dashboards; open data projects
+  Data analysis in healthcare,finance, business, public policy, or social impact; Python-based analytics; Power BI dashboards; open data projects
 
 - 🤝 I’m looking for help with:  
   DAX techniques in Power BI, Python for ML, real-world datasets, storytelling feedback, and mentorship in analytics
