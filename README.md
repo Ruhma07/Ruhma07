@@ -5,7 +5,10 @@ I'm a data analyst with hands-on experience in data visualization, data cleaning
 </h3>
 
 <p align="center">
-📍 Karachi, Pakistan • 📧 ruhmabaig56@gmail.com • 🔗 <a href="https://www.linkedin.com/in/ruhmabaig" target="_blank">LinkedIn</a>
+📍 Karachi, Pakistan • 📧 ruhmabaig56@gmail.com •  
+<a href="https://www.linkedin.com/in/ruhmabaig/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+</a>
 </p>
 
 ---
@@ -25,7 +28,7 @@ I'm a data analyst with hands-on experience in data visualization, data cleaning
   Advanced DAX, Python (Scikit-learn, EDA), SQL optimization, statistical analysis, and storytelling for dashboards
 
 - 👯 I’m looking to collaborate on:  
-  Data analysis in healthcare,finance, business, public policy, or social impact; Python-based analytics; Power BI dashboards; open data projects
+  Data analysis in healthcare, finance, business, public policy, or social impact; Python-based analytics; Power BI dashboards; open data projects
 
 - 🤝 I’m looking for help with:  
   DAX techniques in Power BI, Python for ML, real-world datasets, storytelling feedback, and mentorship in analytics
@@ -44,7 +47,7 @@ I'm a data analyst with hands-on experience in data visualization, data cleaning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ruhmabaig" target="blank">
+  <a href="https://www.linkedin.com/in/ruhmabaig/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruhmabaig" height="30" width="40" />
   </a>
 </p>
